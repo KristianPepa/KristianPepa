@@ -87,6 +87,7 @@
       />
     </div>
     <div>
+    <div>
       <h5>Backend:</h5>
       <img
         src="https://cdn.simpleicons.org/express/000000"
@@ -124,7 +125,7 @@
         height="50"
         title="Postman"
       />
-    </div>
+      </div>
     <div>
       <h5>Hosting:</h5>
       <img
@@ -145,6 +146,7 @@
         height="50"
         title="GoDaddy"
       />
+    </div>
     </div>
     <div align="center">
       <h3>Connect with me </h3>
