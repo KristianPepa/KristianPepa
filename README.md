@@ -148,6 +148,6 @@
     </div>
     <div align="center">
       <h3>Connect with me </h3>
-      <a href="https://www.instagram.com/christi.pepa/"><img src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" width="50" loading="lazy"/></a>
-      <a href="www.linkedin.com/in/kristian-pepa"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" title="Linkedin" width="50" loading="lazy"/></a>
+      <a href="https://www.instagram.com/christi.pepa/"><img src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" width="35" loading="lazy"/></a>
+      <a href="www.linkedin.com/in/kristian-pepa"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" title="Linkedin" width="35" loading="lazy"/></a>
     </div>
