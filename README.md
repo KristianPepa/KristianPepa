@@ -1,3 +1,4 @@
+<h1 align="center">Hi there👋🏻</h1>
     <div>
       <h5>Frontend:</h5>
       <img
@@ -94,7 +95,7 @@
         title="Express Js"
       />
       <img
-        src="https://cdn.simpleicons.org/nodejs/339933"
+        src="https://cdn.simpleicons.org/node.js/339933"
         loading="lazy"
         height="50"
         title="Node JS"
@@ -123,12 +124,11 @@
         height="50"
         title="Postman"
       />
-
     </div>
     <div>
       <h5>Hosting:</h5>
       <img
-        src="https://cdn.simpleicons.org/netlify/00C7B7"
+        src="https://cdn.simpleicons.org/Netlify/00C7B7"
         loading="lazy"
         height="50"
         title="Netlify"
@@ -143,6 +143,6 @@
         src="https://cdn.simpleicons.org/godaddy/1BDBDB"
         loading="lazy"
         height="50"
-        title="Netlify"
+        title="GoDaddy"
       />
     </div>
