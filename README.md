@@ -146,3 +146,8 @@
         title="GoDaddy"
       />
     </div>
+    <div>
+      <h3>Connect with me </h3>
+      <a href="https://www.instagram.com/christi.pepa/"><img src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" loading="lazy"/></a>
+      <a href="www.linkedin.com/in/kristian-pepa"><img src="https://cdn.simpleicons.org/linkedin/E4405F" title="Linkedin" loading="lazy"/></a>
+    </div>
