@@ -88,7 +88,7 @@
     />
   </div>
   <!-- Backend Section #2 -->
-  <div align="left">
+  <div align="center">
     <h5><p align="left">Backend:</p><p align="right">Hosting:</p></h5>
     <img
       src="https://cdn.simpleicons.org/express/000000"
@@ -126,7 +126,6 @@
       height="50"
       title="Postman"
     />
-    <h5>Hosting:</h5>
     <img
       src="https://cdn.simpleicons.org/Netlify/00C7B7"
       loading="lazy"
