@@ -89,7 +89,7 @@
   </div>
   <!-- Backend Section #2 -->
   <div align="left">
-    <h5>Backend:</h5>
+    <h5><p align="left">Backend:</p><p align="right">Hosting:</p></h5>
     <img
       src="https://cdn.simpleicons.org/express/000000"
       loading="lazy"
@@ -126,28 +126,27 @@
       height="50"
       title="Postman"
     />
-  </div>
-  <!-- Hosting Section #3-->
-  <div align="right">
     <h5>Hosting:</h5>
     <img
       src="https://cdn.simpleicons.org/Netlify/00C7B7"
       loading="lazy"
       height="50"
       title="Netlify"
-      align="left"
+      align="right"
     />
     <img
       src="https://cdn.simpleicons.org/hostinger/673DE6"
       loading="lazy"
       height="50"
       title="Netlify"
+      align="right"
     />
     <img
       src="https://cdn.simpleicons.org/godaddy/1BDBDB"
       loading="lazy"
       height="50"
       title="GoDaddy"
+      align="right"
     />
   </div>
   <!-- Connect Section #4 -->
