@@ -87,69 +87,67 @@
       title="Dev Tools"
     />
   </div>
-  <div>
-    <!-- Backend Section #2 -->
-    <div align="left">
-      <h5>Backend:</h5>
-      <img
-        src="https://cdn.simpleicons.org/express/000000"
-        loading="lazy"
-        height="50"
-        title="Express Js"
-      />
-      <img
-        src="https://cdn.simpleicons.org/node.js/339933"
-        loading="lazy"
-        height="50"
-        title="Node JS"
-      />
-      <img
-        src="https://cdn.simpleicons.org/mongodb/47A248"
-        loading="lazy"
-        height="50"
-        title="MongoDB"
-      />
-      <img
-        src="https://cdn.simpleicons.org/git/F05032"
-        loading="lazy"
-        height="50"
-        title="Git"
-      />
-      <img
-        src="https://cdn.simpleicons.org/bitbucket/0052CC"
-        loading="lazy"
-        height="50"
-        title="Bitbucket"
-      />
-      <img
-        src="https://cdn.simpleicons.org/postman/FF6C37"
-        loading="lazy"
-        height="50"
-        title="Postman"
-      />
-    </div>
-    <!-- Hosting Section #3-->
-    <div align="right">
-      <h5>Hosting:</h5>
-      <img
-        src="https://cdn.simpleicons.org/Netlify/00C7B7"
-        loading="lazy"
-        height="50"
-        title="Netlify"
-      />
-      <img
-        src="https://cdn.simpleicons.org/hostinger/673DE6"
-        loading="lazy"
-        height="50"
-        title="Netlify"
-      />
-      <img
-        src="https://cdn.simpleicons.org/godaddy/1BDBDB"
-        loading="lazy"
-        height="50"
-        title="GoDaddy"
-      />
-    </div>
+  <!-- Backend Section #2 -->
+  <div align="left">
+    <h5>Backend:</h5>
+    <img
+      src="https://cdn.simpleicons.org/express/000000"
+      loading="lazy"
+      height="50"
+      title="Express Js"
+    />
+    <img
+      src="https://cdn.simpleicons.org/node.js/339933"
+      loading="lazy"
+      height="50"
+      title="Node JS"
+    />
+    <img
+      src="https://cdn.simpleicons.org/mongodb/47A248"
+      loading="lazy"
+      height="50"
+      title="MongoDB"
+    />
+    <img
+      src="https://cdn.simpleicons.org/git/F05032"
+      loading="lazy"
+      height="50"
+      title="Git"
+    />
+    <img
+      src="https://cdn.simpleicons.org/bitbucket/0052CC"
+      loading="lazy"
+      height="50"
+      title="Bitbucket"
+    />
+    <img
+      src="https://cdn.simpleicons.org/postman/FF6C37"
+      loading="lazy"
+      height="50"
+      title="Postman"
+    />
+  </div>
+  <!-- Hosting Section #3-->
+  <div align="right">
+    <h5>Hosting:</h5>
+    <img
+      src="https://cdn.simpleicons.org/Netlify/00C7B7"
+      loading="lazy"
+      height="50"
+      title="Netlify"
+    />
+    <img
+      src="https://cdn.simpleicons.org/hostinger/673DE6"
+      loading="lazy"
+      height="50"
+      title="Netlify"
+    />
+    <img
+      src="https://cdn.simpleicons.org/godaddy/1BDBDB"
+      loading="lazy"
+      height="50"
+      title="GoDaddy"
+    />
   </div>
   <!-- Connect Section #4 -->
   <div align="center">
