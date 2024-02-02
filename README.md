@@ -135,6 +135,7 @@
       loading="lazy"
       height="50"
       title="Netlify"
+      align="left"
     />
     <img
       src="https://cdn.simpleicons.org/hostinger/673DE6"
