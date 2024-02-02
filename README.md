@@ -1,5 +1,4 @@
 <h1 align="center">Hi there👋🏻</h1>
-<div>
   <!-- Frontend Section #1 -->
   <div align="center">
     <h5>Frontend:</h5>
@@ -170,4 +169,3 @@
         loading="lazy"
     /></a>
   </div>
-</div>
