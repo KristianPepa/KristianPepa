@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋🏻</h1>
   <!-- Frontend Section #1 -->
   <div align="center">
-    <h5>Frontend:</h5>
+    <h3>Frontend</h3>
     <img
       src="https://cdn.simpleicons.org/Html5/e34f26"
       loading="lazy"
@@ -89,7 +89,7 @@
   </div>
   <!-- Backend Section #2 -->
   <div align="center">
-    <h5><p align="left">Backend:</p><p align="right">Hosting:</p></h5>
+      <h3>Backend & Hosting</h3>
     <img
       src="https://cdn.simpleicons.org/express/000000"
       loading="lazy"
@@ -131,21 +131,18 @@
       loading="lazy"
       height="50"
       title="Netlify"
-      align="right"
     />
     <img
       src="https://cdn.simpleicons.org/hostinger/673DE6"
       loading="lazy"
       height="50"
       title="Netlify"
-      align="right"
     />
     <img
       src="https://cdn.simpleicons.org/godaddy/1BDBDB"
       loading="lazy"
       height="50"
       title="GoDaddy"
-      align="right"
     />
   </div>
   <!-- Connect Section #4 -->
