@@ -26,6 +26,6 @@
 ![GoDaddy](https://img.shields.io/badge/GoDaddy-673DE6?style=for-the-badge&logo=godaddy&logoColor=White)
 
 ### 🤝🏻 &nbsp;Connect with Me
-![Instagram](https://img.shields.io/badge/christi.pepa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Linkedin](https://img.shields.io/badge/kristian--pepa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Kripepa1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Instagram](https://img.shields.io/badge/christi.pepa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christi.pepa/)
+[![Linkedin](https://img.shields.io/badge/kristian--pepa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-pepa/)
+[![Gmail](https://img.shields.io/badge/Kripepa1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kripepa1234@gmail.com)
