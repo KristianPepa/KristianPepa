@@ -1,165 +1,31 @@
-<h1 align="center">Hi there👋🏻</h1>
-  <!-- Frontend Section #1 -->
-  <div align="center">
-    <h3>Frontend</h3>
-    <img
-      src="https://cdn.simpleicons.org/Html5/e34f26"
-      loading="lazy"
-      height="50"
-      title="HTML5"
-    />
-    <img
-      src="https://cdn.simpleicons.org/css3/1572B6"
-      loading="lazy"
-      height="50"
-      title="CSS3"
-    />
-    <img
-      src="https://cdn.simpleicons.org/sass/CC6699"
-      loading="lazy"
-      height="50"
-      title="SCSS"
-    />
-    <img
-      src="https://cdn.simpleicons.org/javascript/F7DF1E"
-      loading="lazy"
-      height="50"
-      title="JavaScript"
-    />
-    <img
-      src="https://cdn.simpleicons.org/react/61DAFB"
-      loading="lazy"
-      height="50"
-      title="React"
-    />
-    <img
-      src="https://cdn.simpleicons.org/bootstrap/7952B3"
-      loading="lazy"
-      height="50"
-      title="Bootstrap"
-    />
-    <img
-      src="https://cdn.simpleicons.org/antdesign/0170FE"
-      loading="lazy"
-      height="50"
-      title="Ant Design"
-    />
-    <img
-      src="https://cdn.simpleicons.org/mui/007FFF"
-      loading="lazy"
-      height="50"
-      title="MaterialUI"
-    />
-    <img
-      src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-      loading="lazy"
-      height="50"
-      title="Tailwind CSS"
-    />
-    <img
-      src="https://ci6.googleusercontent.com/proxy/Ud-khzT51bLnOIwvW6to_TeNlUXx4LSL_akqjv6bQOHBsaanwQpFEJ_0Uwf71osI5CHmlbPeBsAXWB8DOptDGMDmB0qKNIzgNZBrwCMhOSfogpQRebu9WiDTBs5C6AFadiS7haYdKoQ9gjTc8GuI1bvzxS4RxJfb0C6wNpc=s0-d-e1-ft"
-      loading="lazy"
-      height="50"
-      title="Ag Grid"
-    />
-    <img
-      src="https://avatars.githubusercontent.com/u/7089101?s=48&v=4"
-      loading="lazy"
-      height="50"
-      title="Quill Editor"
-    />
-    <img
-      src="https://cdn.simpleicons.org/ionic/3880FF"
-      loading="lazy"
-      height="50"
-      title="Ionic Framework"
-    />
-    <img
-      src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/p4sqvbi4studnmau04cc"
-      loading="lazy"
-      height="50"
-      title="SyncFusion"
-    />
-    <img
-      src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-512x512-8iaxdppx.png"
-      loading="lazy"
-      height="50"
-      title="Dev Tools"
-    />
-  </div>
-  <!-- Backend Section #2 -->
-  <div align="center">
-      <h3>Backend & Hosting</h3>
-    <img
-      src="https://cdn.simpleicons.org/express/000000"
-      loading="lazy"
-      height="50"
-      title="Express Js"
-    />
-    <img
-      src="https://cdn.simpleicons.org/node.js/339933"
-      loading="lazy"
-      height="50"
-      title="Node JS"
-    />
-    <img
-      src="https://cdn.simpleicons.org/mongodb/47A248"
-      loading="lazy"
-      height="50"
-      title="MongoDB"
-    />
-    <img
-      src="https://cdn.simpleicons.org/git/F05032"
-      loading="lazy"
-      height="50"
-      title="Git"
-    />
-    <img
-      src="https://cdn.simpleicons.org/bitbucket/0052CC"
-      loading="lazy"
-      height="50"
-      title="Bitbucket"
-    />
-    <img
-      src="https://cdn.simpleicons.org/postman/FF6C37"
-      loading="lazy"
-      height="50"
-      title="Postman"
-    />
-    <img
-      src="https://cdn.simpleicons.org/Netlify/00C7B7"
-      loading="lazy"
-      height="50"
-      title="Netlify"
-    />
-    <img
-      src="https://cdn.simpleicons.org/hostinger/673DE6"
-      loading="lazy"
-      height="50"
-      title="Netlify"
-    />
-    <img
-      src="https://cdn.simpleicons.org/godaddy/1BDBDB"
-      loading="lazy"
-      height="50"
-      title="GoDaddy"
-    />
-  </div>
-  <!-- Connect Section #4 -->
-  <div align="center">
-    <h3>Connect with me</h3>
-    <a href="https://www.instagram.com/christi.pepa/"
-      ><img
-        src="https://cdn.simpleicons.org/instagram/E4405F"
-        title="Instagram"
-        width="35"
-        loading="lazy"
-    /></a>
-    <a href="www.linkedin.com/in/kristian-pepa"
-      ><img
-        src="https://cdn.simpleicons.org/linkedin/0A66C2"
-        title="Linkedin"
-        width="35"
-        loading="lazy"
-    /></a>
-  </div>
+<h1 align="center">Hi there, I'm Kristian👋🏻</h1>
+
+💡 &nbsp;I like to explore and learn new technologies to create more fascinating stuff.\
+🎓 &nbsp;I'm currently taking programming lessons for Python.\
+✉️ &nbsp;You can contact me at my email kripepa1234@gmail.com I'll try to respond as soon as I can.\
+
+
+### 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\
+![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)\
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)\
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=White)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-673DE6?style=for-the-badge&logo=godaddy&logoColor=White)
+
+### 🤝🏻 &nbsp;Connect with Me
+![Instagram](https://img.shields.io/badge/christi.pepa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Linkedin](https://img.shields.io/badge/kristian--pepa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Kripepa1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
