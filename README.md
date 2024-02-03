@@ -4,7 +4,7 @@
 🎓 &nbsp;I'm currently taking programming lessons for Python.\
 ✉️ &nbsp;You can contact me at my email kripepa1234@gmail.com I'll try to respond as soon as I can.
 
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" align="right" height="300" width="300"/>
+<img src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif" align="right" height="300" width="300"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
