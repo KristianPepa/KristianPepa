@@ -2,7 +2,6 @@
 
 💡 &nbsp;I like to explore and learn new technologies to create more fascinating stuff.\
 🎓 &nbsp;I'm currently taking programming lessons for Python.\
-✉️ &nbsp;You can contact me at my email kripepa1234@gmail.com I'll try to respond as soon as I can.
 
 <img src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif" align="right" height="200" width="200"/>
 
