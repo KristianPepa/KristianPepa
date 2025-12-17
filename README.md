@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Kristian👋🏻</h1>
 
 💡 &nbsp;I like to explore and learn new technologies to create more fascinating stuff.\
-🎓 &nbsp;I'm currently taking programming lessons for Python.\
 
 <img src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif" align="right" height="200" width="200"/>
 
